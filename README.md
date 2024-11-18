@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Singh050
-- 👀 I’m interested in internship
+- 👀 I’m interested in working full time
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on research in software engineering with AI(IDE with AI extension)
 - 📫 How to reach me barjindersingh1104@gmail.com

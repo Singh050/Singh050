@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Singh050
+- 👋 Hi, I’m @Singh
 - 👀 I’m interested in working full time in Cyber Security
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on research in software engineering with AI(IDE with AI extension)

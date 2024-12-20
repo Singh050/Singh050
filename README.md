@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about securing digital infrastructu
 
 ## 🌟 Featured Projects  
 
-### 1. [Capture-the-Flag (CTF) Writeups](https://github.com/Singh050/CTF-Writeups)  
+### 1. [Capture-the-Flag (CTF) Writeups](https://github.com/Singh050/Capture_the_flag/blob/main/CTF.pdf)  
 - Documented solutions for **real-world cybersecurity challenges** focused on:  
   - Reconnaissance, Enumeration, Privilege Escalation  
   - Network Forensics and Exploitation Techniques  

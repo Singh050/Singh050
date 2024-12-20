@@ -68,13 +68,6 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 ---
 
-📈 **GitHub Stats**
-
-![Singh050's GitHub stats](https://github-readme-stats.vercel.app/api?username=Singh050&show_icons=true&theme=radical)  
-![Singh050's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Singh050&theme=github)  
-
----
-
 📬 **Get in Touch**
 
 - **Email:** [barjindersingh@ou.edu](mailto:barjindersingh@ou.edu)  
@@ -85,4 +78,4 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 💡 **Fun Fact**
 
-I enjoy solving **cybersecurity puzzles** and building machine learning models to uncover insights. Whether it's analyzing datasets or tackling CTF challenges, I love exploring new tools and techniques to stay ahead in this dynamic field.  
+I enjoy solving **cybersecurity puzzles** and building machine-learning models to uncover insights. Whether it's analyzing datasets or tackling CTF challenges, I love exploring new tools and techniques to stay ahead in this dynamic field.  

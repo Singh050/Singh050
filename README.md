@@ -1,4 +1,4 @@
-# Hi there, I'm Barjinder Singh! 👋  
+Hi there, I'm Barjinder Singh! 👋  
 
 🚀 **Security Engineer** | 🛡️ **Cybersecurity Enthusiast** | 🌐 **Data Analyst**
 
@@ -6,28 +6,33 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 ---
 
-## 🛠️ **Technical Skills**
+🛠️ **Technical Skills**
 
-- **Languages:** Python, R, JavaScript  
-- **Cybersecurity Tools:** Kali Linux, Metasploit, Wireshark, Burp Suite, OWASP ZAP  
+- **Languages:** Python, R, JavaScript
+- **Web Technologies & Frameworks:** HTML, HTML5, CSS, Django, Flask
+- **Cybersecurity Tools:** Kali Linux, Metasploit, Wireshark, Burp Suite, OWASP ZAP
+- **Database Management:** SQLite, MySQL, MSSQL, NoSQL
 - **Machine Learning Tools:** Random Forest, XGBoost, Neural Networks, ggplot2  
 - **Cloud Platforms:** AWS (IAM, VPC, Security Groups), Azure Cloud Security  
-- **Web Security:** OWASP Top 10, Web Application Firewalls (WAF)  
-- **Database Technologies:** SQLite, MySQL  
-- **Operating Systems:** Ubuntu, Kali Linux, Red Hat, Windows  
+- **Version Control & Collaboration:** GitHub, GitLab
+- **IDEs & Development Tools:** RStudio, Visual Studio, Replit, Notepad++, Sublime Text, Jupyter notebook
+- **Operating Systems:** Ubuntu, Kali Linux, Debian, Red Hat, Windows, macOS, iOS, Android
+- **Productivity Tools:** Microsoft Office Suite 
+  
+
 
 ---
 
-## 🌟 **Featured Projects**
+🌟 **Featured Projects**
 
-### 1. [Capture-the-Flag (CTF) Writeups](https://github.com/Singh050/Capture_the_flag/blob/main/CTF.pdf)  
+1. [Capture-the-Flag (CTF) Writeups](https://github.com/Singh050/Capture_the_flag/blob/main/CTF.pdf)  
 - Documented solutions for **real-world cybersecurity challenges**, including:
   - Reconnaissance, Enumeration, and Privilege Escalation  
   - Network Forensics and Exploitation Techniques  
 - **Tools Used:** Kali Linux, Wireshark, Metasploit, Nmap, Nikto  
 - **Outcome:** Successfully solved challenges by identifying vulnerabilities and extracting critical information.
 
-### 2. [SecureP2P Communication System](https://github.com/Singh050/Computer_Security_Project)  
+2. [SecureP2P Communication System](https://github.com/Singh050/Computer_Security_Project)  
 - Built a **Secure Peer-to-Peer (P2P) Communication System** with end-to-end encryption.
 - **Key Features:**
   - **Elliptic Curve Cryptography (ECC)** for secure key exchange and **AES-256 CTR mode** for symmetric encryption.  
@@ -35,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
   - Encrypted client-to-client and client-to-server communication for maximum confidentiality.
 - **Outcome:** Delivered a secure, scalable communication platform ideal for sensitive data transmission.
 
-### 3. [Machine Learning-Based Loan Default Prediction](https://github.com/Singh050/Machine-Learning-Based-Prediction-of-Loan-Default)  
+3. [Machine Learning-Based Loan Default Prediction](https://github.com/Singh050/Machine-Learning-Based-Prediction-of-Loan-Default)  
 - Designed a **machine learning pipeline** to predict loan defaults using borrower data.
 - **Key Features:**
   - Addressed **class imbalance** with SMOTE and applied **one-hot encoding** to categorical variables.
@@ -47,7 +52,7 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 ---
 
-## 📜 **Certifications**
+📜 **Certifications**
 
 - **CompTIA Security+** – Completed  
 - **AWS Certified Solutions Architect** – Completed  
@@ -55,7 +60,7 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 ---
 
-## 🌱 **Current Focus**
+🌱 **Current Focus**
 
 - Advancing penetration testing techniques and improving threat detection skills.  
 - Enhancing cloud security configurations for AWS and Azure platforms.  
@@ -63,14 +68,14 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 ---
 
-## 📈 **GitHub Stats**
+📈 **GitHub Stats**
 
 ![Singh050's GitHub stats](https://github-readme-stats.vercel.app/api?username=Singh050&show_icons=true&theme=radical)  
 ![Singh050's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Singh050&theme=github)  
 
 ---
 
-## 📬 **Get in Touch**
+📬 **Get in Touch**
 
 - **Email:** [barjindersingh@ou.edu](mailto:barjindersingh@ou.edu)  
 - **LinkedIn:** [linkedin.com/in/BarjinderSingh](https://linkedin.com/in/BarjinderSingh)  
@@ -78,6 +83,6 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 ---
 
-## 💡 **Fun Fact**
+💡 **Fun Fact**
 
 I enjoy solving **cybersecurity puzzles** and building machine learning models to uncover insights. Whether it's analyzing datasets or tackling CTF challenges, I love exploring new tools and techniques to stay ahead in this dynamic field.  

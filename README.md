@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 🛠️ **Technical Skills**
 
-- **Languages:** Python, R, JavaScript
+- **Languages:** Python, R, JavaScript, Bash
 - **Web Technologies & Frameworks:** HTML, HTML5, CSS, Django, Flask
 - **Cybersecurity Tools:** Kali Linux, Metasploit, Wireshark, Burp Suite, OWASP ZAP
-- **Database Management:** SQLite, MySQL, MSSQL, NoSQL
+- **Database Management:** SQLite, SQL (MySQL/MSSQL/Postgres), NoSQL
 - **Machine Learning Tools:** Random Forest, XGBoost, Neural Networks, ggplot2  
 - **Cloud Platforms:** AWS (IAM, VPC, Security Groups), Azure Cloud Security  
 - **Version Control & Collaboration:** GitHub, GitLab

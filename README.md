@@ -54,10 +54,10 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 📜 **Certifications**
 
-- **CompTIA Security+** – Completed  
-- **AWS Certified Solutions Architect** – Completed  
 - **Certified Ethical Hacker(CEH)** – In Progress  
-
+- **CompTIA Security+** – Completed  
+- **AWS Academy Cloud Foundations** – Completed  
+  
 ---
 
 🌱 **Current Focus**

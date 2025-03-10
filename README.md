@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 - **Cybersecurity Tools:** Kali Linux, Nmap, Metasploit, Wireshark, aircrack-ng, Hydra, Burp Suite, OpenVAS, Nikto, tcpdump, SET, Apktool, Splunk, Python, Bash Scripting 
 - **Database Management:** SQLite, SQL (MySQL/MSSQL/Postgres), NoSQL
 - **Machine Learning Tools:** Random Forest, XGBoost, Neural Networks, ggplot2  
-- **Cloud Platforms:** AWS (IAM, VPC, Security Groups), Azure Cloud Security  
+- **Cloud Platforms:** AWS, Azure Cloud Security  
 - **Version Control & Collaboration:** GitHub, GitLab
 - **IDEs & Development Tools:** RStudio, Visual Studio, Replit, Notepad++, Sublime Text, Jupyter notebook
-- **Operating Systems:** Ubuntu, Kali Linux, Debian, Red Hat, Windows, macOS, iOS, Android
+- **Operating Systems:** Ubuntu, Kali Linux, Red Hat, Windows, macOS, iOS, Android
 - **Productivity Tools:** Microsoft Office Suite 
   
 

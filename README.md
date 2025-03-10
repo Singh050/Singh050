@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 - **Languages:** Python, R, JavaScript, Bash
 - **Web Technologies & Frameworks:** HTML, HTML5, CSS, Django, Flask
-- **Cybersecurity Tools:** Kali Linux, Metasploit, Wireshark, Burp Suite, OWASP ZAP
+- **Cybersecurity Tools:** Kali Linux, Nmap, Metasploit, Wireshark, aircrack-ng, Hydra, Burp Suite, OpenVAS, Nikto, tcpdump, SET, Apktool, Splunk, Python, Bash Scripting 
 - **Database Management:** SQLite, SQL (MySQL/MSSQL/Postgres), NoSQL
 - **Machine Learning Tools:** Random Forest, XGBoost, Neural Networks, ggplot2  
 - **Cloud Platforms:** AWS (IAM, VPC, Security Groups), Azure Cloud Security  

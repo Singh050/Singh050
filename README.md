@@ -70,8 +70,8 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 📬 **Get in Touch**
 
-- **Email:** [Barjindersingh](mailto:barjindersingh@ou.edu) [Barjindersingh/gmail](mailto:barjindersingh1104@gmail.com)
-- **LinkedIn:** [BarjinderSingh](https://www.linkedin.com/in/barjinder-singh-88413b13b/)  
+- **Email:** [Barjinder singh](mailto:barjindersingh@ou.edu) / [Barjindersingh@gmail](mailto:barjindersingh1104@gmail.com)
+- **LinkedIn:** [Barjinder Singh](https://www.linkedin.com/in/barjinder-singh-88413b13b/)  
 - **GitHub Portfolio:** [Barjinder Singh](https://github.com/Singh050)  
 
 ---

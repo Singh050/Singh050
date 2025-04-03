@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 📜 **Certifications**
 
-- **Certified Ethical Hacker(CEH)** – In Progress  
+- **EJPT** – In Progress  
 - **CompTIA Security+** – Completed  
 - **AWS Academy Cloud Foundations** – Completed  
   

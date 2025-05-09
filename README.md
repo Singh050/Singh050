@@ -53,8 +53,8 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 ---
 
 📜 **Certifications**
-
-- **EJPT** – In Progress  
+- **OSCP** – In-progress 
+- **EJPT** – Completed  
 - **CompTIA Security+** – Completed  
 - **AWS Academy Cloud Foundations** – Completed  
   

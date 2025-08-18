@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 
 ---
 
-🌟 **Featured Projects**
+🌟 **Some Featured Projects**
 
 1. [Capture-the-Flag (CTF)](https://github.com/Singh050/Capture_the_flag/tree/main)  
 - Documented solutions for **real-world cybersecurity challenges**, including:
@@ -53,10 +53,11 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 ---
 
 📜 **Certifications**
-- **OSCP** – In-progress 
-- **EJPT** – Completed  
-- **CompTIA Security+** – Completed  
-- **AWS Academy Cloud Foundations** – Completed  
+- **OSCP** – In-progress
+- **EWPTX** 
+- **EJPT**  
+- **CompTIA Security+**  
+- **AWS Academy Cloud Foundations** 
   
 ---
 

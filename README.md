@@ -1,6 +1,6 @@
 Hi there, I'm Barjinder Singh! 👋  
 
-🚀 **Security Engineer** | 🛡️ **Cybersecurity Enthusiast** | 🌐 **Data Analyst**
+🚀 **Penetration Tester** | 🛡️ **Cybersecurity Enthusiast** | 🌐 **Red Team**
 
 Welcome to my GitHub profile! I'm passionate about creating secure systems, solving complex cybersecurity challenges, and building scalable solutions that enhance system integrity and performance. My experience spans from developing **machine learning models** to tackling **real-world cybersecurity threats** through **Capture-the-Flag (CTF)** challenges and secure communication systems.
 

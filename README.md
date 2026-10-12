@@ -53,10 +53,13 @@ Welcome to my GitHub profile! I'm passionate about creating secure systems, solv
 ---
 
 📜 **Certifications**
-- **OSCP** – In-progress
+- **OSCP** 
 - **EWPTX** 
 - **EJPT**  
-- **CompTIA Security+**  
+- **CompTIA Security+**
+- **CMMC RP**
+- **CMMC RPA**
+- **CMMC CCP**
 - **AWS Academy Cloud Foundations** 
   
 ---
